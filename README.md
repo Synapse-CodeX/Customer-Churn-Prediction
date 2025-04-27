@@ -22,16 +22,16 @@ The model was trained using historical customer data and evaluated on test data,
 The dataset used in this project was sourced from Kaggle. You can access the dataset [here](https://www.kaggle.com/datasets/rjmanoj/credit-card-customer-churn-prediction).
 
 ## Installation
-# Step 1: Clone the repository
+### Step 1: Clone the repository
 git clone https://github.com/yourusername/customer-churn-prediction-using-ann.git
 
-# Step 2: Install dependencies
+### Step 2: Install dependencies
 pip install -r requirements.txt
 
-# Alternatively, you can install manually
+### Alternatively, you can install manually
 pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
 
-# Step 3: Run the Jupyter Notebook
+### Step 3: Run the Jupyter Notebook
 jupyter notebook customer-churn-prediction-using-ann.ipynb
 
 
